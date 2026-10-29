@@ -23,14 +23,3 @@ Dieses Projekt verwendet Methoden des maschinellen Lernens, um anhand strukturie
 ## Modellbewertung
 
 Kaggle ROC-AUC-Wert: **0,92**
-
-## Projektstruktur
-
-- `airline_satisfaction.ipynb` — Datenaufbereitung, Modelltraining und Auswertung
-- `requirements.txt` — Abhängigkeiten des Projekts
-
-## Reproduzierbarkeit
-
-Installieren Sie die in `requirements.txt` aufgeführten Abhängigkeiten und führen Sie anschließend das Notebook in Jupyter aus.
-
-*Hinweis: Der angegebene Wert basiert auf der Bewertung durch Kaggle. Um exakt dasselbe Ergebnis auf der Rangliste zu reproduzieren, können die ursprünglichen Wettbewerbsdaten und die entsprechende Bewertungsumgebung erforderlich sein.*
